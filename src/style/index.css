@@ -1,0 +1,21 @@
+@import url("./homepage.css");
+@import url("./media.css");
+@import url("https://fonts.cdnfonts.com/css/asgard");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Bai Jamjuree", sans-serif;
+  font-family: "Poppins", sans-serif;
+
+}
+.container {
+  width: 80%;
+}
+.primary {
+  background: linear-gradient(
+    129.58deg,
+    #d33ed4 4.48%,
+    #5a38dd 49.44%,
+    #2dccfd 97.31%
+  );
+}
